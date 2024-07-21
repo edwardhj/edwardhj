@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Software+Engineer;Consultant;Missionary)](https://git.io/typing-svg)
 
+I am a detail-oriented and motivated Full Stack Software Engineer based in Los Angeles, California. 
+I have a BS in Business Administration and a BS in Accounting from the University of Southern California. Currently, I'm a consultant for KPMG, based out of the Los Angeles office.
+
+
 <!--
 **edwardhj/edwardhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
