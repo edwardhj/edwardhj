@@ -7,7 +7,7 @@ I am a detail-oriented and motivated Full Stack Software Engineer based in Los A
 
 I have a BS in Business Administration and a BS in Accounting from the University of Southern California. Currently, I'm a consultant for KPMG, based out of the Los Angeles office.
 
-When I'm not busy at work, I spend my time taking classes, learning more about software engineering! I love all aspects of technology and am deeply interested in programming solutions that will help create societal change.
+When I'm not busy at work, I spend my time taking classes, learning more about software engineering! I love all aspects of technology and am deeply interested in programming solutions that will spark societal change.
 
 ### My Personal Self 🏡
 Apart from learning, I love snowboarding, golfing, playing basketball and soccer. You can catch me at the local 24-Hour Fitness, spending hours at a time improving various aspects of my basketball game from shooting to dribbling to passing.
