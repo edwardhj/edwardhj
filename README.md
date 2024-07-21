@@ -1,4 +1,6 @@
-## Hi there 👋
+## Nice to meet you, I'm Edward! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=Web+Developer;Mobile+Developer;Software+Engineer;Software+Engineering+Instructor)](https://git.io/typing-svg)
 
 <!--
 **edwardhj/edwardhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
