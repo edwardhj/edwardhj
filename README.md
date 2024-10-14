@@ -5,8 +5,8 @@
 ### My Professional Self 🏢
 I am a detail-oriented and motivated Full Stack Software Engineer based in Los Angeles, California. 
 
-I have a BS in Business Administration and a BS in Accounting from the University of Southern California. Post graduation, I'm a consultant for KPMG, based out of the Los Angeles office.
-Currently, I'm pursuing a Masters degree in Computer Science from the University of Pennsylvania
+I have a BS in Business Administration and a BS in Accounting from the University of Southern California. After graduating, I worked as a consultant for KPMG, based out of the Los Angeles office.
+Currently, I'm pursuing a Masters degree in Computer Science from the University of Pennsylvania.
 
 When I'm not busy at work, I spend my time taking classes, learning more about software engineering! I love all aspects of technology and am deeply interested in programming solutions that will spark societal change.
 
